@@ -1,1 +1,15 @@
 # qa_python
+
+**Проект QA Python**
+
+Список реализованных тестов:
+test_add_new_book_add_two_books,
+test_add_new_book_add_same_book_name,
+test_add_new_book_does_not_fit_in_name_limit,
+test_set_book_genre_add_existed_book,
+test_get_book_genre_add_existed_book,
+test_get_books_with_specific_genre_get_one,
+test_get_books_genre_without_adding,
+test_get_books_for_children_allowed_genre,
+test_delete_book_from_favorites_one_book,
+test_get_list_of_favorites_books_add_one_book.
